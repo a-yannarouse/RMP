@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Johnson's lectures are engaging and informative. Her passion for biology is contagious!"
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Brilliant professor. Makes complex algorithms seem easy. Always available for extra help."
+      },
+      {
+        "professor": "Dr. Sarah Williams",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Interesting content, but lectures can be dry. Office hours are helpful."
+      },
+      {
+        "professor": "Prof. David Garcia",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Challenging course, but Prof. Garcia explains concepts clearly. Fair grader."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "Chemistry",
+        "stars": 5,
+        "review": "Best professor in the department! Lab sessions are well-organized and insightful."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "History",
+        "stars": 2,
+        "review": "Monotonous lectures. Relies too heavily on memorization rather than critical thinking."
+      },
+      {
+        "professor": "Dr. Lisa Brown",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Passionate about the subject. Encourages lively class discussions."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "Knowledgeable, but sometimes struggles to explain complex concepts to non-majors."
+      },
+      {
+        "professor": "Dr. Maria Rodriguez",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Inspiring teacher. Relates course material to real-world issues effectively."
+      },
+      {
+        "professor": "Prof. Thomas Anderson",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Clear explanations of economic theories. Assignments are challenging but fair."
+      },
+      {
+        "professor": "Dr. Karen White",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Incredibly knowledgeable. Field trips to museums greatly enhance the learning experience."
+      },
+      {
+        "professor": "Prof. John Murphy",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Seems disorganized. Lecture content often strays from the syllabus."
+      },
+      {
+        "professor": "Dr. Susan Kim",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Fascinating course content. Dr. Kim is always willing to provide extra guidance."
+      },
+      {
+        "professor": "Prof. Richard Davis",
+        "subject": "Philosophy",
+        "stars": 3,
+        "review": "Thought-provoking discussions, but grading criteria can be unclear."
+      },
+      {
+        "professor": "Dr. Jennifer Lopez",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Excellent professor. Incorporates current research into lectures. Great field work opportunities."
+      },
+      {
+        "professor": "Prof. William Turner",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Brings real-world experience to the classroom. Group projects are particularly valuable."
+      },
+      {
+        "professor": "Dr. Elizabeth Scott",
+        "subject": "Anthropology",
+        "stars": 3,
+        "review": "Interesting course material, but lectures can be hard to follow at times."
+      },
+      {
+        "professor": "Prof. Daniel Lee",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Exceptional teacher. Makes complex musical concepts accessible to all students."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Challenging but rewarding course. Dr. Green is passionate and knowledgeable."
+      },
+      {
+        "professor": "Prof. Christopher Adams",
+        "subject": "Civil Engineering",
+        "stars": 3,
+        "review": "Solid understanding of the subject, but could improve on teaching methods."
+      }
+    ]
+  }
